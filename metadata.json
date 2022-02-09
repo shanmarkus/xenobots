@@ -1,26 +1,54 @@
 {
-    "data": {
-        "creators": [
-            {
-                "address": "DhfASC4p5zA8YHvpNiuTnqdTQ2JpN6Yw1DXpBYo7BRrJ",
-                "share": 0,
-                "verified": true
-            },
-            {
-                "address": "9GjRtXTfSrswd632BnfyGqhzs2hJRWqwMrnMEbwNeW7R",
-                "share": 100,
-                "verified": false
-            }
-        ],
-        "name": "The Xenobots Project #1202",
-        "seller_fee_basis_points": 600,
-        "symbol": "XENOBOTS",
-        "uri": "https://storage.googleapis.com/xeno-nft/1202.gif"
+  "name": "The Xenobots Project #1202",
+  "symbol": "XENOBOTS",
+  "description": "Multi-utility Project with 2,000 Xenobots to own on #Solana blockchain. (https://thexenobotsproject.com/)",
+  "seller_fee_basis_points": 600,
+  "image": "https://storage.googleapis.com/xeno-nft/1202.gif",
+  "external_url": "https://thexenobotsproject.com/",
+  "edition": 1202,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG01B"
     },
-    "edition_nonce": 254,
-    "is_mutable": true,
-    "key": "MetadataV1",
-    "mint": "2kgLwWppJL3DRQLA9gqwsbVx56QzMxt5PEyii26zUhwB",
-    "primary_sale_happened": true,
-    "update_authority": "5HRQRKsMoxBhJ5paYCoaTjsFNu12vsenmaWYrpWNhsE4"
+    {
+      "trait_type": "BODY",
+      "value": "2BODY02B"
+    },
+    {
+      "trait_type": "EARS",
+      "value": "2EAR03B"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "2EYES05G"
+    },
+    {
+      "trait_type": "JAW",
+      "value": "2JAW05C"
+    },
+    {
+      "trait_type": "UPPERHEAD",
+      "value": "2UH02C"
+    },
+    {
+      "trait_type": "HEADGEAR",
+      "value": "2HG05B"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9GjRtXTfSrswd632BnfyGqhzs2hJRWqwMrnMEbwNeW7R",
+        "share": 100
+      }
+    ]
+  }
 }
