@@ -1,0 +1,26 @@
+{
+    "data": {
+        "creators": [
+            {
+                "address": "DhfASC4p5zA8YHvpNiuTnqdTQ2JpN6Yw1DXpBYo7BRrJ",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "9GjRtXTfSrswd632BnfyGqhzs2hJRWqwMrnMEbwNeW7R",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "The Xenobots Project #1202",
+        "seller_fee_basis_points": 600,
+        "symbol": "XENOBOTS",
+        "uri": "https://storage.googleapis.com/xeno-nft/1202.gif"
+    },
+    "edition_nonce": 254,
+    "is_mutable": true,
+    "key": "MetadataV1",
+    "mint": "2kgLwWppJL3DRQLA9gqwsbVx56QzMxt5PEyii26zUhwB",
+    "primary_sale_happened": true,
+    "update_authority": "5HRQRKsMoxBhJ5paYCoaTjsFNu12vsenmaWYrpWNhsE4"
+}
