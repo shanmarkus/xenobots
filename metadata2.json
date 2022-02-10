@@ -1,0 +1,54 @@
+{
+  "name": "The Xenobots Project #1208",
+  "symbol": "XENOBOTS",
+  "description": "Multi-utility Project with 2,000 Xenobots to own on #Solana blockchain. (https://thexenobotsproject.com/)",
+  "seller_fee_basis_points": 600,
+  "image": "https://storage.googleapis.com/xeno-nft/1208.gif",
+  "external_url": "https://thexenobotsproject.com/",
+  "edition": 1208,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "BG01B"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "2BODY05E"
+    },
+    {
+      "trait_type": "EARS",
+      "value": "2EAR03C"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "2EYES05F"
+    },
+    {
+      "trait_type": "JAW",
+      "value": "2JAW01C"
+    },
+    {
+      "trait_type": "UPPERHEAD",
+      "value": "2UH02D"
+    },
+    {
+      "trait_type": "HEADGEAR",
+      "value": "2HG01B"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9GjRtXTfSrswd632BnfyGqhzs2hJRWqwMrnMEbwNeW7R",
+        "share": 100
+      }
+    ]
+  }
+}
